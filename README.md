@@ -1,4 +1,4 @@
-##Description
+# Description
 This is a simple pebble watch app to read accelerometer data from the watch. I am doing this to learn more about how sensors in modern devices work and how to properly use them.
 
 ## Usage
